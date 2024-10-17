@@ -63,3 +63,17 @@ También se trabajó con la columna 'Fecha' para sacar los años y poder desgloz
 ---
 
 <img src="Análisis de Ventas.jpg" alt="Análisis de Ventas">
+
+**Datos Clave**:
+
+* Ventas totales: $25.18 millones (en USD).
+* Ventas por Sede: El mayor ingreso proviene de las **Ventas Externas** ($18 millones), en cuanto a las otras sedes, reportan ingresos significativamente menores (de $3 millones para abajo).
+* Ventas por Año: Hay una caída importante en 2020, con una disminución a solo $1 millon, frente a los $4.8 millones de 2019.
+
+La disminución de las ventas en 2020 es considerable, lo que hace notable el impacto de la pandemia en las operaciones de la empresa. La concentración de ventas en 'Ventas Externas' nos indica que la mayor parte de los ingresos
+vienen de contratos o fuera de las sedes físicas, lo que podría ser una oportunidad, pero también un riesgo, porque depende de una fuente muy concentrada. La fuerte caída en 2020 indica la necesidad de evaluar estrategias, sea 
+reducción de costos, ventas de la empresa o búsqueda de nuevos mercados.
+
+<img src="Análisis de Cantidad.jpg" alt="Análisis de Cantidad">
+
+**Datos Clave**:
