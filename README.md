@@ -35,14 +35,29 @@ Este proyecto es uno de los retos dentro de la página de [ID for Ideas](https:/
 
 Para realizar el trabajo se usaron los datos Ventas y Empleados, pero los datos de "Ventas" dieron dos problemas:
 
-1. El archivo tenía un total de 921320 valores faltantes.
+1. El archivo tenía un total de **921320** valores faltantes.
 2. La columna 'Ventas' nos daba un error de formato por las ',' y '.' dentro de Power BI.
 
 Estos problemas se abarcaron dentro del archivo modelado.ipynb, en donde se eliminan las filas tienen valores faltantes en su totalidad y se pasan los valores de la columna 'Ventas' a números limpios.
 
 #### Columnas creadas dentro de Power BI
 
-Se crearon varias columnas para poder realizar los análisis.
+**Ventas en USD**: Dentro del archivo descripcion.pdf se especifica que para el proyecto nos debemos manejar en dólares estadounidense (0,00023).
 
-**Ventas en USD**
-Dentro del archivo descripcion.pdf
+**VentasTotales**: Suma total de las ventas.
+
+**GananciaServicios**: Ganancia total de los servicios.
+
+**CantidadServicios**: Cantidad de servicios realizados.
+
+**VentasServicios**: Ventas solo de servicios.
+
+**CantidadSedes**: Suma de la cantidad de sedes.
+
+**VentasPorEmpleados**: Suma de las ventas de empleados (mismo calculo que **'VentasTotales'**)
+
+**RankingVentasEmpleados**: Ranking de las ventas de los empleados.
+
+También se trabajó con la columna 'Fecha' para sacar los años y poder desglozar los gráficos en años.
+
+---
