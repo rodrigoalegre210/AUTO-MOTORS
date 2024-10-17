@@ -61,3 +61,5 @@ Estos problemas se abarcaron dentro del archivo modelado.ipynb, en donde se elim
 También se trabajó con la columna 'Fecha' para sacar los años y poder desglozar los gráficos en años.
 
 ---
+
+<img src="Análisis de Ventas.jpg" alt="Análisis de Ventas">
