@@ -25,6 +25,24 @@ Este proyecto es uno de los retos dentro de la página de [ID for Ideas](https:/
 * Ventas realizadas por sus empleados
 * Ranking de Ventas / Servicios de Empleados
 
-**Estos puntos son establecidos en el archivo "descripcion.pdf"**
+***Estos puntos son establecidos en el archivo "descripcion.pdf"***
 
 ---
+
+### Trabajo Técnico.
+
+#### Problemas con el archivo Ventas.csv
+
+Para realizar el trabajo se usaron los datos Ventas y Empleados, pero los datos de "Ventas" dieron dos problemas:
+
+1. El archivo tenía un total de 921320 valores faltantes.
+2. La columna 'Ventas' nos daba un error de formato por las ',' y '.' dentro de Power BI.
+
+Estos problemas se abarcaron dentro del archivo modelado.ipynb, en donde se eliminan las filas tienen valores faltantes en su totalidad y se pasan los valores de la columna 'Ventas' a números limpios.
+
+#### Columnas creadas dentro de Power BI
+
+Se crearon varias columnas para poder realizar los análisis.
+
+**Ventas en USD**
+Dentro del archivo descripcion.pdf
